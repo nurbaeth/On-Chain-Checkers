@@ -9,7 +9,7 @@ On-Chain Checkers is a fully decentralized checkers game built on Ethereum using
 
 ## How It Works
 1. **Create a Game** – Players initiate a new match by specifying an opponent.
-2. **Make Moves** – Players take turns moving their pieces according to checkers rules.
+2. **Make Moves** – Players take turns moving their pieces according to checkers rules. 
 3. **Win the Game** – The game continues until one player has no valid moves left.
 
 ## Deployment
