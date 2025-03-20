@@ -16,7 +16,7 @@ On-Chain Checkers is a fully decentralized checkers game built on Ethereum using
 To deploy the contract, use Hardhat or Remix with a Solidity-compatible Ethereum network.
 
 ## Usage
-- Call `createGame(address opponent)` to start a match.
+- Call `createGame(address opponent)` to start a match. 
 - Use `makeMove(uint256 gameId, uint8 fromX, uint8 fromY, uint8 toX, uint8 toY)` to make a move.
 - Query `games(gameId)` to check the board state.
 
