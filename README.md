@@ -19,7 +19,7 @@ To deploy the contract, use Hardhat or Remix with a Solidity-compatible Ethereum
 - Call `createGame(address opponent)` to start a match. 
 - Use `makeMove(uint256 gameId, uint8 fromX, uint8 fromY, uint8 toX, uint8 toY)` to make a move.
 - Query `games(gameId)` to check the board state.
-
+ 
 ## Roadmap
 - **King Piece Mechanics** – Implement promotion rules.
 - **Jump Captures** – Add logic for forced captures.
