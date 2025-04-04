@@ -21,7 +21,7 @@ To deploy the contract, use Hardhat or Remix with a Solidity-compatible Ethereum
 - Query `games(gameId)` to check the board state.
  
 ## Roadmap
-- **King Piece Mechanics** – Implement promotion rules.
+- **King Piece Mechanics** – Implement promotion rules. 
 - **Jump Captures** – Add logic for forced captures.
 - **Frontend UI** – Build an interactive web interface for gameplay.
 
